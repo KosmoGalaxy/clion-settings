@@ -3,7 +3,7 @@
     <property name="created">2019-04-16T19:05:05</property>
     <property name="ide">CLion</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-04-18T22:24:31</property>
+    <property name="modified">2019-04-18T22:46:22</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <attributes>
@@ -21,6 +21,7 @@
       <value />
     </option>
     <option name="DEFAULT_CONSTANT" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_FUNCTION_CALL" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_FUNCTION_DECLARATION" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_IDENTIFIER">
       <value>
@@ -48,11 +49,6 @@
         <option name="FOREGROUND" value="b5cea8" />
       </value>
     </option>
-    <option name="DEFAULT_OPERATION_SIGN">
-      <value>
-        <option name="FOREGROUND" value="dcdcdc" />
-      </value>
-    </option>
     <option name="DEFAULT_SEMICOLON">
       <value />
     </option>
@@ -69,6 +65,11 @@
       </value>
     </option>
     <option name="OC.MACRONAME">
+      <value>
+        <option name="FOREGROUND" value="dcdcdc" />
+      </value>
+    </option>
+    <option name="OC.STRUCT_FIELD">
       <value>
         <option name="FOREGROUND" value="dcdcdc" />
       </value>
