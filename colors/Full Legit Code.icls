@@ -3,7 +3,7 @@
     <property name="created">2019-04-16T19:05:05</property>
     <property name="ide">CLion</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-04-16T19:05:19</property>
+    <property name="modified">2019-04-18T22:24:31</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <attributes>
@@ -50,7 +50,7 @@
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="ffff" />
+        <option name="FOREGROUND" value="dcdcdc" />
       </value>
     </option>
     <option name="DEFAULT_SEMICOLON">
